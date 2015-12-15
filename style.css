@@ -5,17 +5,46 @@
     color: #993200;
     text-align: center;
 }
+
 .movie {
     text-align: center;
     font-family: 'Monoton', cursive;
 }
 
 #title2 {
-    font-size:50px;
-    color:#ff0000;
+    font-size: 50px;
+    color: #ff0000;
 }
 
 #blurb {
     font-family: 'Russo One', cursive;
     font-size: 30px;
+    color: #ff0000;
+}
+
+#present {
+    text-align: center;
+    font-family: 'Monoton', cursive;
+    letter-spacing:30px;
+    font-size:50px;
+    color: #ff0000;
+}
+body {
+    /*wikipedia.com*/
+    background-image: url ("squirrel.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#date {
+    color: #ff0000;
+}
+
+#tagline {
+    color: #ff0000;
+}
+#border1 {
+    border: 5px dashed red;
+    padding: 5px;
+    margin: 100px 100px;
 }
