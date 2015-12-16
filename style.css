@@ -31,7 +31,7 @@
 }
 body {
     /*wikipedia.com*/
-    background-image: url ("squirrel.jpg");
+    background-image: url("squirrel.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
 }
