@@ -32,6 +32,7 @@
     letter-spacing:30px;
     font-size:50px;
     color: #ff0000;
+    
 }
 body {
     /*wikipedia.com*/
@@ -51,4 +52,7 @@ body {
     border: 5px dashed red;
     padding: 5px;
     margin: 100px 100px;
+}
+#transition {
+    
 }
