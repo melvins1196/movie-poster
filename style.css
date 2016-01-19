@@ -4,6 +4,8 @@
     letter-spacing: 30px;
     color: #993200;
     text-align: center;
+    text-shadow: 5px 5px 5px white;
+    
 }
 
 .movie {
@@ -14,6 +16,8 @@
 #title2 {
     font-size: 50px;
     color: #ff0000;
+    transform: rotateZ(10deg);
+    
 }
 
 #blurb {
